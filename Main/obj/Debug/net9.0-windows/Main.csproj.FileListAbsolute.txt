@@ -12,3 +12,4 @@ C:\Users\evant\My Code\Hexidecimal Converter\main\obj\Debug\net9.0-windows\refin
 C:\Users\evant\My Code\Hexidecimal Converter\main\obj\Debug\net9.0-windows\Main.pdb
 C:\Users\evant\My Code\Hexidecimal Converter\main\obj\Debug\net9.0-windows\Main.genruntimeconfig.cache
 C:\Users\evant\My Code\Hexidecimal Converter\main\obj\Debug\net9.0-windows\ref\Main.dll
+C:\Users\evant\My Code\Hexidecimal Converter\main\obj\Debug\net9.0-windows\Main.sourcelink.json
